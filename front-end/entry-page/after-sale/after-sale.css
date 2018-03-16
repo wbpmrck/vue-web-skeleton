@@ -1,0 +1,13 @@
+body{
+  width: 100px;
+  background-color: #f22f13;
+}
+
+#test{
+  background-image: url('../../src/assets/logo.png');
+  width: 100px;
+  height: 100px;
+
+  border: solid 1px red;
+
+}
