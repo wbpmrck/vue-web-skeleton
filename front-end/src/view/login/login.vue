@@ -9,6 +9,8 @@
       <div id="forget-password">忘记密码</div>
     </div>
 
+    <div id="btn-login">立即登录</div>
+
   </div>
 </template>
 
@@ -72,6 +74,18 @@
   #forget-password {
     display: inline-block;
     float: right;
+  }
+
+  #btn-login {
+    margin: 38px 20px 0 20px;
+    width:200px;
+    height:44px;
+    line-height:44px;
+    border-radius: 3px;
+
+    background-color: #5AB7FC;
+    font-size:20px;
+    text-align: center;
   }
   }
 
